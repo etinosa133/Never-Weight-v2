@@ -1,0 +1,5 @@
+{
+  "name": "NeverWeight",
+  "description": "A comprehensive gym tracking app for Northwestern SPAC, featuring real-time machine availability, crowd forecasting, and workout logging.",
+  "requestFramePermissions": []
+}
